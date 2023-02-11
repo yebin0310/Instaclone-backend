@@ -1,0 +1,19 @@
+{
+  "name": "instaclone",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yebin0310/Instaclone-Backend-build-with-Prisma-and-GrapQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yebin0310/Instaclone-Backend-build-with-Prisma-and-GrapQL/issues"
+  },
+  "homepage": "https://github.com/yebin0310/Instaclone-Backend-build-with-Prisma-and-GrapQL#readme"
+}
